@@ -75,7 +75,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 
 ### Projects:
 
-1.	[**Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance**](https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction):
+1.	[Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance](https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction):
 *Dec 2024 - University of Salford*
     - Developed a machine learning model to predict fraudulent vehicle insurance claims based on historical data.
     - Applied various classification algorithms such as XGBoost, K Nearest Neighbors, Azure’s Two-Class Neural Network, and Two-Clas Decision Forest to build predictive models.
