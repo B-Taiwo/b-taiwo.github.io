@@ -74,13 +74,13 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 
 ### Projects:
 
-1.	**Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance**:
+1.	[**Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance**](https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction):
 *Dec 2024 - University of Salford*
     - Developed a machine learning model to predict fraudulent vehicle insurance claims based on historical data.
     - Applied various classification algorithms such as XGBoost, K Nearest Neighbors, Azure’s Two-Class Neural Network, and Two-Clas Decision Forest to build predictive models.
     - Addressed challenges such as class imbalance by using SMOTE  to ensure the model effectively detected fraudulent claims.
     - This project allowed me to combine data cleaning, EDA, model development, and evaluation metrics to create a data-driven solution that could have real-world applications in the insurance industry.
-2.	**Identifying Pandemic Trends - A COVID-19 Clustering Approach**:
+2.	[**Identifying Pandemic Trends - A COVID-19 Clustering Approach**](https://github.com/B-Taiwo/covid-19-clustering):
 *Dec 2024 - University of Salford*
     - Performed clustering analysis to identify key trends and patterns in the spread of COVID-19 across different countries and regions.
     - Used K-Means and Hierarchical Clustering to categorize regions on key metrics such as cases, deaths, hospitalizations, and population density.
@@ -90,16 +90,16 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
     - Developed an interactive Power BI dashboard visualizing global economic trends from 2001 to 2020, using IMF data on GDP, inflation, unemployment, and government debt.
     - Designed dynamic charts and interactive filters, allowing users to explore relationships between different economic indicators at global, regional, and country levels.
     - This project showcased my skills in data visualization and storytelling with data.
-4.	**Concrete Compressive Strength Analysis - A Statistical Approach**:
+4.	[**Concrete Compressive Strength Analysis - A Statistical Approach**](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Conducted statistical analysis to analyze how compressive strength in concrete is influenced by its composition and provide actionable insights for the construction company.
     - Applied regression analysis, and hypothesis testing (parametric and non-parametric tests) to understand the relationships between composition mixtures.
     - This project demonstrates my ability to apply statistical modeling to engineering problems and provide actionable insights.
-5.	**Forecasting Divorce Trends in the UK: A Time Series Analysis**:
+5.	[**Forecasting Divorce Trends in the UK: A Time Series Analysis**](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Performed a time series analysis to forecast divorce trends in the UK, using historical divorce rates.
     - Used ARIMA and Holt-Winters models to make predictions and evaluated their performances through metrics e.g. AIC, RMSE, etc.
-6.	**Sentiment Analysis for BA Customer Feedback**:
+6.	[**Sentiment Analysis for BA Customer Feedback**](https://github.com/B-Taiwo/sentiment-analysis-british-airways):
 *Dec 2024 - University of Salford*
     - Performed sentiment analysis on customer reviews to derive actionable insights into customer satisfaction.
     - Used word clouds and sentiment trends to highlight key themes in customer feedback, providing useful recommendations to improve service quality and customer experience.
