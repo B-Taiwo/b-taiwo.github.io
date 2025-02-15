@@ -3,6 +3,7 @@ title: Welcome to my Portfolio
 ---
 
 ## MSc Data Science Student | Aspiring Data Scientist & Data Engineer
+### [LinkedIn Profile](https://www.linkedin.com/in/abdulquadribalogun), Email: taiwobalogun255@gmail.com
 ### Technical Skills: Python, R, SQL, Big Data.
 
 ### About Me:
