@@ -81,34 +81,34 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
     - Applied various classification algorithms such as XGBoost, K Nearest Neighbors, Azure’s Two-Class Neural Network, and Two-Clas Decision Forest to build predictive models.
     - Addressed challenges such as class imbalance by using SMOTE  to ensure the model effectively detected fraudulent claims.
     - This project allowed me to combine data cleaning, EDA, model development, and evaluation metrics to create a data-driven solution that could have real-world applications in the insurance industry.
-2.	[**Identifying Pandemic Trends - A COVID-19 Clustering Approach**](https://github.com/B-Taiwo/covid-19-clustering):
+2.	[Identifying Pandemic Trends - A COVID-19 Clustering Approach](https://github.com/B-Taiwo/covid-19-clustering):
 *Dec 2024 - University of Salford*
     - Performed clustering analysis to identify key trends and patterns in the spread of COVID-19 across different countries and regions.
     - Used K-Means and Hierarchical Clustering to categorize regions on key metrics such as cases, deaths, hospitalizations, and population density.
     - The project helped to strengthen my skills in unsupervised learning and data visualization.
-3.	**Economic Pulse: A 20-Year Global Overview**:
-*Dec 2024 - University of Salford*
-    - Developed an interactive Power BI dashboard visualizing global economic trends from 2001 to 2020, using IMF data on GDP, inflation, unemployment, and government debt.
-    - Designed dynamic charts and interactive filters, allowing users to explore relationships between different economic indicators at global, regional, and country levels.
-    - This project showcased my skills in data visualization and storytelling with data.
-4.	[**Concrete Compressive Strength Analysis - A Statistical Approach**](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
+3.	[Concrete Compressive Strength Analysis - A Statistical Approach](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Conducted statistical analysis to analyze how compressive strength in concrete is influenced by its composition and provide actionable insights for the construction company.
     - Applied regression analysis, and hypothesis testing (parametric and non-parametric tests) to understand the relationships between composition mixtures.
     - This project demonstrates my ability to apply statistical modeling to engineering problems and provide actionable insights.
-5.	[**Forecasting Divorce Trends in the UK: A Time Series Analysis**](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
+4.	[Forecasting Divorce Trends in the UK: A Time Series Analysis](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Performed a time series analysis to forecast divorce trends in the UK, using historical divorce rates.
     - Used ARIMA and Holt-Winters models to make predictions and evaluated their performances through metrics e.g. AIC, RMSE, etc.
-6.	[**Sentiment Analysis for BA Customer Feedback**](https://github.com/B-Taiwo/sentiment-analysis-british-airways):
+5.	[Sentiment Analysis for BA Customer Feedback](https://github.com/B-Taiwo/sentiment-analysis-british-airways):
 *Dec 2024 - University of Salford*
     - Performed sentiment analysis on customer reviews to derive actionable insights into customer satisfaction.
     - Used word clouds and sentiment trends to highlight key themes in customer feedback, providing useful recommendations to improve service quality and customer experience.
-7.	**Customer Retention Enhancement through Predictive Analytics**:
+6.	Economic Pulse: A 20-Year Global Overview:
+*Dec 2024 - University of Salford*
+    - Developed an interactive Power BI dashboard visualizing global economic trends from 2001 to 2020, using IMF data on GDP, inflation, unemployment, and government debt.
+    - Designed dynamic charts and interactive filters, allowing users to explore relationships between different economic indicators at global, regional, and country levels.
+    - This project showcased my skills in data visualization and storytelling with data.
+7.	Customer Retention Enhancement through Predictive Analytics:
 *Sep 2024 - Data Science Job Simulation - Lloyds Banking Group on Forage*
     - Developed a predictive model using XGBoost, achieving an ROC-AUC score of 0.987 and a weighted F1 score of 0.88.
     - This experience helped me gain insights into real-world business problems and gave me hands-on experience in handling customer data, model evaluation, and feature importance analysis.
-8.	**Predicting Customer Bookings: A Data-Driven Approach**:
+8.	Predicting Customer Bookings: A Data-Driven Approach:
 *Aug 2024 - Data Science Job Simulation - British Airways on Forage*
     - Built a machine learning model to predict customer bookings with 81% accuracy using Python.
     - Applied techniques like data preprocessing and feature engineering, to improve model performance.
