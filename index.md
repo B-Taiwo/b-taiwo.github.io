@@ -35,6 +35,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 ### Certifications:
 #### Technical Certifications
 - Microsoft Certified: Azure Data Scientist Associate - Mar 2025
+- Microsoft Certified: Azure Data Fundamentals - Mar 2025
 - DataCamp: Certified Data Engineer – Feb 2025
 - DataCamp: Certified Associate Data Scientist – Aug 2024
 
@@ -46,7 +47,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - IBM: Introduction to Data Analytics – Apr 2023
 - IBM: Data Visualization and Dashboards with Excel and Cognos – Apr 2023 
 
-#### Upcoming Certifications (I plan to take them within the coming months):
+#### Upcoming Certifications (In View - Apr/May 2025):
 - Microsoft Certified: Fabric Data Engineer Associate
 - Microsoft Certified: Power BI Data Analyst Associate
 
