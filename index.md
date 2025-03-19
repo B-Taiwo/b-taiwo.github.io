@@ -36,6 +36,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 #### Technical Certifications
 - Microsoft Certified: Azure Data Scientist Associate - Mar 2025
 - Microsoft Certified: Azure Data Fundamentals - Mar 2025
+- Databricks Academy Accreditation - Databricks Fundamentals - Mar 2025
 - DataCamp: Certified Data Engineer – Feb 2025
 - DataCamp: Certified Associate Data Scientist – Aug 2024
 
