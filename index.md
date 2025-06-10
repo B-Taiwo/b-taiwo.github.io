@@ -56,7 +56,6 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Work Experience:
-
 #### Data Science Job Simulations (Forage):
 1.	**Lloyds Banking Group – Sep 2024:**
     - Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group.
