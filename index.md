@@ -4,7 +4,7 @@ title: Welcome to my Portfolio
 
 ## MSc Data Science Student | Aspiring Data Scientist & Data Engineer
 ### [LinkedIn Profile](https://www.linkedin.com/in/abdulquadribalogun), Email: taiwobalogun255@gmail.com
-### Technical Skills: Python, R, SQL, Big Data.
+### Technical Skills: Python, R, SQL, AWS, Azure, Big Data.
 
 ### About Me:
 Welcome to my portfolio! I’m currently pursuing an MSc in Data Science at the University of Salford, UK, where I’m building a strong foundation in machine learning, data engineering, and data visualization. My background in mechanical engineering has given me a unique perspective, and now I’m using my skills to tackle real-world challenges using data.
@@ -20,12 +20,15 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 
 ##### Trimester 1 (Sep 2024 – Dec 2024:
 
-- Machine Learning & Data Mining: 91/100
-- Applied Statistics & Data Visualization: 90/100
+- Machine Learning & Data Mining
+- Applied Statistics & Data Visualization
 
 ##### Trimester 2 (Ongoing: Jan 2025 – Apr 2025):
 - Advanced Databases
 - Big Data Tools and Techniques
+
+##### Trimester 3 (Ongoing: June 2025 – Aug 2025):
+- MSc Dissertation Live Project: End-to-End AWS ECommerce Marketing Analytics – Customer Profiling & Segmentation
 
 
 #### B.Eng. Mechanical Engineering, Bells University of Technology, Nigeria (Sep 2017 – Aug 2021)
@@ -53,6 +56,10 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Work Experience:
+
+#### Data Science Internships:
+1. **IllumiFi Advisory Ltd. - Jun 2025 - Present:**
+   - 
  
 #### Data Science Job Simulations (Forage):
 1.	**Lloyds Banking Group – Sep 2024:**
@@ -76,41 +83,48 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
     - Prepared and monitored project schedules and monthly progress reports for proper planning and efficient tracking of project progress.
 
 ### Projects:
-
-1.	[Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance](https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction):
+1. [End-to-End Customer Analytics Pipeline on AWS - CDNOW Dataset](https://github.com/B-Taiwo/CDNOW-Customer-Analytics-AWS)**:
+    *Jun 2025 - University of Salford*
+    - Developed an end-to-end data pipeline on AWS for customer analytics
+    - Implemented robust ETL processes using AWS Glue (Crawlers, ETL Jobs) to ingest raw transactional data from S3, clean, and transform it.
+    - Performed comprehensive feature engineering, deriving key customer metrics such as RFM (Recency, Frequency, Monetary) and behavioral features (e.g., Customer Tenure, Average Time Between Purchases).
+    - Applied K-Means clustering to segment customers into distinct profiles (e.g., "High-Value Loyal," "At-Risk," "Churned"), providing actionable insights for targeted marketing.
+    - Built a Logistic Regression model for customer churn prediction, defining churn based on customer inactivity in a non-contractual setting.
+    - Gained hands-on experience with cloud-based data engineering (AWS S3, Glue) and machine learning applications in customer analytics.
+2.	[Predicting Fraudulent Claims - Machine Learning in Vehicle Insurance](https://github.com/B-Taiwo/vehicle-insurance-fraud-prediction):
 *Dec 2024 - University of Salford*
     - Developed a machine learning model to predict fraudulent vehicle insurance claims based on historical data.
     - Applied various classification algorithms such as XGBoost, K Nearest Neighbors, Azure’s Two-Class Neural Network, and Two-Clas Decision Forest to build predictive models.
     - Addressed challenges such as class imbalance by using SMOTE  to ensure the model effectively detected fraudulent claims.
     - This project allowed me to combine data cleaning, EDA, model development, and evaluation metrics to create a data-driven solution that could have real-world applications in the insurance industry.
-2.	[Identifying Pandemic Trends - A COVID-19 Clustering Approach](https://github.com/B-Taiwo/covid-19-clustering):
+3.	[Identifying Pandemic Trends - A COVID-19 Clustering Approach](https://github.com/B-Taiwo/covid-19-clustering):
 *Dec 2024 - University of Salford*
     - Performed clustering analysis to identify key trends and patterns in the spread of COVID-19 across different countries and regions.
     - Used K-Means and Hierarchical Clustering to categorize regions on key metrics such as cases, deaths, hospitalizations, and population density.
     - The project helped to strengthen my skills in unsupervised learning and data visualization.
-3.	[Concrete Compressive Strength Analysis - A Statistical Approach](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
+4.	[Concrete Compressive Strength Analysis - A Statistical Approach](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Conducted statistical analysis to analyze how compressive strength in concrete is influenced by its composition and provide actionable insights for the construction company.
     - Applied regression analysis, and hypothesis testing (parametric and non-parametric tests) to understand the relationships between composition mixtures.
     - This project demonstrates my ability to apply statistical modeling to engineering problems and provide actionable insights.
-4.	[Forecasting Divorce Trends in the UK: A Time Series Analysis](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
+5.	[Forecasting Divorce Trends in the UK: A Time Series Analysis](https://github.com/B-Taiwo/concrete-strength-statistical-analysis):
 *Dec 2024 - University of Salford*
     - Performed a time series analysis to forecast divorce trends in the UK, using historical divorce rates.
     - Used ARIMA and Holt-Winters models to make predictions and evaluated their performances through metrics e.g. AIC, RMSE, etc.
-5.	[Sentiment Analysis for BA Customer Feedback](https://github.com/B-Taiwo/sentiment-analysis-british-airways):
+6.	[Sentiment Analysis for BA Customer Feedback](https://github.com/B-Taiwo/sentiment-analysis-british-airways):
 *Dec 2024 - University of Salford*
     - Performed sentiment analysis on customer reviews to derive actionable insights into customer satisfaction.
     - Used word clouds and sentiment trends to highlight key themes in customer feedback, providing useful recommendations to improve service quality and customer experience.
-6.	Economic Pulse: A 20-Year Global Overview:
+7.	Economic Pulse: A 20-Year Global Overview:
 *Dec 2024 - University of Salford*
     - Developed an interactive Power BI dashboard visualizing global economic trends from 2001 to 2020, using IMF data on GDP, inflation, unemployment, and government debt.
     - Designed dynamic charts and interactive filters, allowing users to explore relationships between different economic indicators at global, regional, and country levels.
     - This project showcased my skills in data visualization and storytelling with data.
-7.	Customer Retention Enhancement through Predictive Analytics:
+8.	Customer Retention Enhancement through Predictive Analytics:
 *Sep 2024 - Data Science Job Simulation - Lloyds Banking Group on Forage*
     - Developed a predictive model using XGBoost, achieving an ROC-AUC score of 0.987 and a weighted F1 score of 0.88.
     - This experience helped me gain insights into real-world business problems and gave me hands-on experience in handling customer data, model evaluation, and feature importance analysis.
-8.	Predicting Customer Bookings: A Data-Driven Approach:
+9.	Predicting Customer Bookings: A Data-Driven Approach:
 *Aug 2024 - Data Science Job Simulation - British Airways on Forage*
     - Built a machine learning model to predict customer bookings with 81% accuracy using Python.
     - Applied techniques like data preprocessing and feature engineering, to improve model performance.
