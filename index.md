@@ -57,10 +57,6 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 
 ### Work Experience:
 
-#### Data Science Internships:
-1. **IllumiFi Advisory Ltd. - Jun 2025 - Present:**
-   - 
- 
 #### Data Science Job Simulations (Forage):
 1.	**Lloyds Banking Group – Sep 2024:**
     - Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group.
@@ -83,7 +79,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
     - Prepared and monitored project schedules and monthly progress reports for proper planning and efficient tracking of project progress.
 
 ### Projects:
-1. [End-to-End Customer Analytics Pipeline on AWS - CDNOW Dataset](https://github.com/B-Taiwo/CDNOW-Customer-Analytics-AWS)**:
+1. [End-to-End Customer Analytics Pipeline on AWS - CDNOW Dataset](https://github.com/B-Taiwo/CDNOW-Customer-Analytics-AWS):
     *Jun 2025 - University of Salford*
     - Developed an end-to-end data pipeline on AWS for customer analytics
     - Implemented robust ETL processes using AWS Glue (Crawlers, ETL Jobs) to ingest raw transactional data from S3, clean, and transform it.
