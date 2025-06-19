@@ -16,9 +16,9 @@ On this site, you can explore my projects, certifications, work experience, and 
 Feel free to check out my projects or get in touch for collaboration opportunities or job inquiries!
 
 ### Education:
-#### MSc. Data Science, University of Salford, UK (Sep 2024 – Aug 2025)
+#### MSc. Data Science, University of Salford, UK (Sep 2024 – Present)
 
-##### Trimester 1 (Sep 2024 – Dec 2024:
+##### Trimester 1 (Sep 2024 – Dec 2024):
 
 - Machine Learning & Data Mining
 - Applied Statistics & Data Visualization
@@ -27,7 +27,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - Advanced Databases
 - Big Data Tools and Techniques
 
-##### Trimester 3 (Ongoing: June 2025 – Aug 2025):
+##### Trimester 3 (Ongoing: June 2025 – Present):
 - MSc Dissertation Live Project: End-to-End AWS ECommerce Marketing Analytics – Customer Profiling & Segmentation
 
 
@@ -47,15 +47,23 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - PMI: Certified Associate in Project Management (CAPM) – Jun 2023
 
 #### Online Courses:
+- AWS Cloud Practitioner Essentials - Jun 2025
 - LinkedIn Learning: Complete Guide to Power BI for Data Analysts (by Microsoft Press) – Sep 2024
 - IBM: Introduction to Data Analytics – Apr 2023
 - IBM: Data Visualization and Dashboards with Excel and Cognos – Apr 2023 
 
-#### Upcoming Certifications (In View - Apr/May 2025):
+#### Upcoming Certifications (In View):
+- AWS Certified Cloud Practitioner
 - Microsoft Certified: Fabric Data Engineer Associate
 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Work Experience:
+1. **Data Science Intern, IllumiFi Advisory Ltd., London UK - Jun 2025 - Present:** 
+    - Designed an end-to-end cloud-native data pipeline on AWS (S3, Glue, Lambda, Step Functions) to ingest, transform, and prepare customer data for advanced 
+      analytics, demonstrating scalability for 2,000+ daily transactions.
+    - Built and optimized ETL processes and feature engineering pipelines using AWS Glue and PySpark, including RFM metrics and behavioral indicators, preparing a 
+      unified 'Customer 360' dataset for machine learning and business intelligence. 
+
 #### Data Science Job Simulations (Forage):
 1.	**Lloyds Banking Group – Sep 2024:**
     - Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group.
