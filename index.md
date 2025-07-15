@@ -37,6 +37,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 
 ### Certifications:
 #### Technical Certifications
+- AWS Certified Cloud Practitioner - Jul 2025
 - Microsoft Certified: Azure Data Scientist Associate - Mar 2025
 - Microsoft Certified: Azure Data Fundamentals - Mar 2025
 - Databricks Academy Accreditation - Databricks Fundamentals - Mar 2025
@@ -53,8 +54,7 @@ Feel free to check out my projects or get in touch for collaboration opportuniti
 - IBM: Data Visualization and Dashboards with Excel and Cognos – Apr 2023 
 
 #### Upcoming Certifications (In View):
-- AWS Certified Cloud Practitioner
-- Microsoft Certified: Fabric Data Engineer Associate
+- AWS Certified Data Engineer – Associate
 - Microsoft Certified: Power BI Data Analyst Associate
 
 ### Work Experience:
